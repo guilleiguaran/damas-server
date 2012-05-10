@@ -1,1 +1,1 @@
-worker: sh target/bin/main $PORT
+web: sh target/bin/main $PORT
